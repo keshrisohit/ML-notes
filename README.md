@@ -6,3 +6,6 @@ https://medium.com/@rrfd/boosting-bagging-and-stacking-ensemble-methods-with-skl
 
 ### Ensemble library for stacking 
 http://ml-ensemble.com/
+
+PCA,Auto-encoding Dimensionality-reduction
+https://medium.com/analytics-vidhya/journey-from-principle-component-analysis-to-autoencoders-e60d066f191a
