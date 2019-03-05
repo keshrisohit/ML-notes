@@ -15,3 +15,6 @@ https://www.analyticsvidhya.com/blog/2017/10/fundamentals-deep-learning-activati
 
 ###neural network using keras
 https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+
+### Light GBM explained
+https://mlexplained.com/2018/01/05/lightgbm-and-xgboost-explained/
