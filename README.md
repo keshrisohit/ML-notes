@@ -18,3 +18,6 @@ https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 
 ### Light GBM explained
 https://mlexplained.com/2018/01/05/lightgbm-and-xgboost-explained/
+
+### Gridsearch for neural netowrk 
+https://blogs.oracle.com/meena/simple-neural-network-model-using-keras-and-grid-search-hyperparameterstuning
